@@ -1,7 +1,7 @@
 # 30 Days, 30 Web Pages Challenge 🚀
 
 Welcome to the **30 Days, 30 Web Pages Challenge**!  
-This repository contains 30 different web pages built by **Utsav Vachhani** as part of a personal challenge to enhance web development skills. Each day, a new project is added along with the code and output.
+This repository contains 30 different web pages built by [**Utsav Vachhani**](https://github.com/utsavvachhani) as part of a personal challenge to enhance web development skills. Each day, a new project is added along with the code and output.
 
 ## Projects Overview
 
