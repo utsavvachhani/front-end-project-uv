@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Product Showcase</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>Discover Our Product</h1>
+      <p>The best solution for your needs</p>
+    </div>
+  </header>
+
+  <main class="container">
+    <section id="features">
+      <h2>Features</h2>
+      <div class="feature-grid">
+        <div class="feature border">Feature 1: High Quality</div>
+        <div class="feature border">Feature 2: Affordable</div>
+        <div class="feature border">Feature 3: Eco-friendly</div>
+        <div class="feature border">Feature 4: Reliable</div>
+      </div>
+    </section>
+
+    <section id="testimonials">
+      <h2>What Our Customers Say</h2>
+      <div class="testimonial-grid">
+        <div class="testimonial border">
+          <p>"This product changed my life!"</p>
+          <span>- Customer A</span>
+        </div>
+        <div class="testimonial border">
+          <p>"Exceptional quality at a fair price."</p>
+          <span>- Customer B</span>
+        </div>
+        <div class="testimonial border">
+          <p>"Highly recommended!"</p>
+          <span>- Customer C</span>
+        </div>
+      </div>
+    </section>
+
+    <section id="contact">
+      <h2>Contact Us</h2>
+      <form id="contact-form">
+        <label for="name">Name:</label>
+        <input type="text" id="name" required>
+        
+        <label for="email">Email:</label>
+        <input type="email" id="email" required>
+
+        <label for="message">Message:</label>
+        <textarea id="message" required></textarea>
+
+        <button type="button" onclick="submitForm()">Submit</button>
+      </form>
+      <div id="form-response"></div>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2024 Product Showcase</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
