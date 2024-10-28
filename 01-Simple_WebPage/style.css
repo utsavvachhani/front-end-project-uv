@@ -1,0 +1,97 @@
+:root{
+    --background-color : #3d8cd6;
+}
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f4f4f4;
+  }
+  
+  header {
+    background-color: var(--background-color);
+    color: #fff;
+    text-align: center;
+    padding: 1.5rem;
+  }
+  
+  header h1 {
+    margin-bottom: 0.5rem;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  #about, #gallery, #contact {
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    border-bottom: 2px solid var(--background-color);
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+  }
+  
+  .image-grid {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+  
+  .image {
+    height: 400PX;
+    width: 40%;
+    flex: 1 1 calc(50% - 10px);
+    background-color: #ddd;
+    padding: 20px;
+    text-align: center;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .image img{
+    height: 100%;
+    width: 100%;
+  }
+  .image:hover {
+    background-color: var(--background-color);
+    color: #fff;
+  }
+  
+  #contact-form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  #contact-form input, #contact-form textarea, #contact-form button {
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  #contact-form button {
+    background-color: var(--background-color);
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  #contact-form button:hover {
+    background-color: #000000;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+  }
+  
