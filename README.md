@@ -7,9 +7,9 @@ This repository contains 30 different web pages built by [**Utsav Vachhani**](ht
 
 | Day  | Title                                   | Description                                       | Code                                                                 | Output                                                               |
 |------|-----------------------------------------|---------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|
-| 1    | Simple Web Page                         | A basic webpage using HTML and CSS                | [Code](https://github.com/utsavvachhani/WT_Lab/blob/main/home.html)   | [Output](https://utsavvachhani.github.io/WT_Lab/TIme-Table/table.html)|
-| 2    | Responsive Web Page                     | Enhanced responsive layout with media queries     | [Code](https://github.com/utsavvachhani/WT_Lab/blob/main/home.html)   | [Output](https://utsavvachhani.github.io/WT_Lab/TIme-Table/table.html)|
-| 3    | Interactive Form                        | Form validation and submission using JS           | Link to Code | Link to Output |
+| 1    | Simple Web Page                         | A basic webpage using HTML and CSS                | [Code](https://github.com/utsavvachhani/front-end-project-uv/tree/main/01-Simple_WebPage)   | [Output](https://utsavvachhani.github.io/front-end-project-uv/01-Simple_WebPage/index.html)|
+| 2    | Responsive Web Page                     | Enhanced responsive layout with media queries     | [Code](https://github.com/utsavvachhani/front-end-project-uv/tree/main/02-Responsive_WebPage)   | [Output](https://utsavvachhani.github.io/front-end-project-uv/02-Responsive_WebPage/index.html)|
+| 3    | Interactive Form                        | Form validation and submission using JS           | [Code](https://github.com/utsavvachhani/front-end-project-uv/tree/main/03-Interactive_Form) | [Output](https://utsavvachhani.github.io/front-end-project-uv/03-Interactive_Form/index.html) |
 | 4    | Navigation Menu                         | Creating a responsive and styled navigation bar   | Link to Code | Link to Output |
 | 5    | Grid Layout                             | Building complex layouts with CSS Grid            | Link to Code | Link to Output |
 | 6    | Flexbox Layout                          | Mastering CSS Flexbox for responsive layouts      | Link to Code | Link to Output |
